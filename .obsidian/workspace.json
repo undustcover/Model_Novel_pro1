@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_World_Bible/Energy_Settings_Draft.md",
+                "file": "99_Inspiration_Log/AIcoding Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy_Settings_Draft"
+              "title": "AIcoding Prompt"
             }
           }
         ],
@@ -200,9 +200,15 @@
   },
   "active": "1225239038652645",
   "lastOpenFiles": [
+    "01_World_Bible/World_Rules_Society.md",
+    "03_Story_Planning/Volume_01_Outline.md",
+    "99_Inspiration_Log/AIcoding Prompt.md",
+    "03_Story_Planning/Plot_Threads_Tracker.md",
+    "03_Story_Planning/Volume_01/Story_State_Snapshot.md",
+    "03_Story_Planning/Volume_01/Outline_Vol_01.md",
+    "01_World_Bible/Energy_Settings_Draft.md",
     "00_System_Prompts/Pacing_Guide.md",
     "AIcoding Prompt.md",
-    "03_Story_Planning/Volume_01_Outline.md",
     "02_Characters/Antagonist/Char_MaMu.md",
     "01_World_Bible/Fallen_Empire_History.md",
     "02_Characters/Protagonist/Char_Heroine_SuQian.md",

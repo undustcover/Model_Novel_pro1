@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d073250ae66c76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Characters/Protagonist/Char_LinYe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Char_LinYe"
-            }
-          },
-          {
             "id": "1225239038652645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Inspiration_Log/AIcoding Prompt.md",
+                "file": "04_Writing_Workspace/Volume_01_Drafts/Chapter_003/Draft_AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIcoding Prompt"
+              "title": "Draft_AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,22 +185,40 @@
   },
   "active": "1225239038652645",
   "lastOpenFiles": [
-    "01_World_Bible/World_Rules_Society.md",
-    "03_Story_Planning/Volume_01_Outline.md",
-    "99_Inspiration_Log/AIcoding Prompt.md",
-    "03_Story_Planning/Plot_Threads_Tracker.md",
-    "03_Story_Planning/Volume_01/Story_State_Snapshot.md",
-    "03_Story_Planning/Volume_01/Outline_Vol_01.md",
-    "01_World_Bible/Energy_Settings_Draft.md",
-    "00_System_Prompts/Pacing_Guide.md",
-    "AIcoding Prompt.md",
-    "02_Characters/Antagonist/Char_MaMu.md",
-    "01_World_Bible/Fallen_Empire_History.md",
-    "02_Characters/Protagonist/Char_Heroine_SuQian.md",
-    "01_World_Bible/Factions_Matrix.md",
-    "01_World_Bible/Human_History.md",
-    "01_World_Bible/World_Crises.md",
     "02_Characters/Protagonist/Char_LinYe.md",
-    "ReadMe.md"
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_003/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_004/Draft_AI.md",
+    "04_Writing_Workspace/Unused_Drafts/Chapter_006_Draft_Old.md",
+    "04_Writing_Workspace/Unused_Drafts/Chapter_005_Draft_Old.md",
+    "04_Writing_Workspace/Unused_Drafts/Chapter_004_Draft_Old.md",
+    "04_Writing_Workspace/Unused_Drafts",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_006/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_006",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_005/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_005",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_004",
+    "02_Characters/Protagonist/Char_Police_LaoZhang.md",
+    "02_Characters/Supporting/Char_WangGou.md",
+    "02_Characters/Protagonist/Char_LuTing.md",
+    "02_Characters/Protagonist/Char_GuZixuan.md",
+    "02_Characters/Side_Characters/Char_WangGou.md",
+    "02_Characters/Antagonist/Char_BoneCarver.md",
+    "02_Characters/Antagonist/Char_LiWei.md",
+    "02_Characters/Supporting/Char_OldGhost.md",
+    "02_Characters/Supporting/Char_LinXiaolu.md",
+    "02_Characters/Supporting",
+    "02_Characters/Protagonist/Char_Ivy.md",
+    "02_Characters/Protagonist/Char_WangGou.md",
+    "02_Characters/Side_Characters/Char_Police_LaoZhang.md",
+    "99_Inspiration_Log/Unused_Scenes/Chapter_003_MaMu_Intro_v1_Final.md",
+    "99_Inspiration_Log/Unused_Scenes/Chapter_003_MaMu_Intro_v1.md",
+    "99_Inspiration_Log/Unused_Scenes",
+    "02_Characters/Side_Characters",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_003/Final_User.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_003",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Final_User.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_002/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_002"
   ]
 }

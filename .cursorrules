@@ -37,7 +37,12 @@ Your behavior MUST be governed by the files in `00_System_Prompts/` and the spec
     *   **ALWAYS** read the `Final_User.md` of the previous chapter if available.
     *   **Update Context**: After finishing a chapter, update `Volume_01_Context_Tracker.md`.
 
-4.  **[MANDATORY] Logic Check**:
+4.  **[MANDATORY] Writing Principles (User Defined)**:
+    *   **High Information Density**: The main plot must be dense with information (world-building, character depth, clues) to ensure readability. Avoid empty dialogue or "water" content.
+    *   **Web Novel Structure**: Use side plots (unit dramas/commissions) to expand word count and flesh out character images. Do not rush the main plot.
+    *   **Event-Driven World Building**: World view must be revealed through **EVENTS**, never through objective description or "info-dumps". Show, Don't Tell.
+
+5.  **[MANDATORY] Logic Check**:
     *   If a user request violates the "World Rules" (e.g., infinite power without cost), you must **STOP** and politely warn the user about the conflict.
 
 # 🗣️ Interaction Style

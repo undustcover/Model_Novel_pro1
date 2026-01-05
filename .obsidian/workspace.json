@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Inspiration"
             }
+          },
+          {
+            "id": "2a3903f96381b41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Draft_AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft_AI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,43 +212,43 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "127d4a82b86c7cf4",
+  "active": "2a3903f96381b41c",
   "lastOpenFiles": [
-    "99_Inspiration_Log/AIcoding Prompt.md",
-    "99_Inspiration_Log/Inspiration.md",
-    "99_Inspiration_Log/Unused_Scenes/Chapter_003_MaMu_Intro_v1.md",
-    "99_Inspiration_Log/Unused_Scenes/Chapter_003_MaMu_Intro_v1_Final.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_002/Final_User.md",
-    "00_System_Prompts/Manuals/User_Manual.md",
-    "00_System_Prompts/Manuals",
-    "03_Story_Planning/Volume_01_Docs/Volume_01_Outline.md",
-    "03_Story_Planning/Volume_01_Docs/Volume_01_Context_Tracker.md",
-    "03_Story_Planning/Volume_01_Docs/Volume_01_Worldline_Log.md",
-    "03_Story_Planning/Volume_01_Docs/Volume_01_World_Rules.md",
-    "03_Story_Planning/Volume_01_Docs",
-    "03_Story_Planning/Volume_01_Context_Tracker.md",
-    "03_Story_Planning/Volume_01_Worldline_Log.md",
-    "03_Story_Planning/Volume_01_World_Rules.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_002/Draft_AI.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_003/Final_User.md",
     "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Final_User.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_003/Draft_AI.md",
-    "03_Story_Planning/Timeline_Era_Evolution.md",
-    "02_Characters/Protagonist/Char_LinYe.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_004/Draft_AI.md",
-    "04_Writing_Workspace/Unused_Drafts/Chapter_006_Draft_Old.md",
-    "04_Writing_Workspace/Unused_Drafts/Chapter_005_Draft_Old.md",
-    "04_Writing_Workspace/Unused_Drafts/Chapter_004_Draft_Old.md",
-    "04_Writing_Workspace/Unused_Drafts",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_006/Draft_AI.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_006",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_005/Draft_AI.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_005",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_004",
-    "02_Characters/Protagonist/Char_Police_LaoZhang.md",
-    "02_Characters/Supporting",
-    "99_Inspiration_Log/Unused_Scenes",
-    "02_Characters/Side_Characters",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_003"
+    "todolist.md",
+    "04_Writing_Workspace/Refactoring_Plan_Vol1.md",
+    "04_Writing_Workspace/Humor_Analysis_Suggestion.md",
+    "04_Writing_Workspace/Writing_Guidelines.md",
+    "04_Writing_Workspace/Novel_Refactoring_Plan.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_009/Final_User.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_009",
+    "03_Story_Planning/03_Character_Arcs/Arc_OldZhang.md",
+    "03_Story_Planning/03_Character_Arcs/Arc_GuZiXuan.md",
+    "03_Story_Planning/03_Character_Arcs/Arc_LinYe.md",
+    "03_Story_Planning/Volume_01/Volume_01_World_Snapshot.md",
+    "03_Story_Planning/Volume_01/Volume_01_Index.md",
+    "03_Story_Planning/01_Main_Story/Volume_01_Worldline_Log.md",
+    "03_Story_Planning/01_Main_Story/Volume_01_World_Rules.md",
+    "03_Story_Planning/01_Main_Story/Volume_01_Context_Tracker.md",
+    "03_Story_Planning/03_Character_Arcs/Arc_SuQian.md",
+    "03_Story_Planning/01_Main_Story/Story_State_Snapshot.md",
+    "03_Story_Planning/03_Character_Arcs/Arc_LuTing.md",
+    "03_Story_Planning/03_Character_Arcs/Arc_Ivy.md",
+    "03_Story_Planning/01_Main_Story/Main_Story_Vol01.md",
+    "03_Story_Planning/02_Side_Story/Side_Story_Template.md",
+    "01_World_Bible/Maps/Map_Global.md",
+    "01_World_Bible/Maps/District_9/Map_District9_Overview.md",
+    "03_Story_Planning/03_Character_Arcs",
+    "03_Story_Planning/02_Side_Story",
+    "03_Story_Planning/01_Main_Story",
+    "01_World_Bible/Maps/District_9",
+    "01_World_Bible/Maps",
+    "未命名.base",
+    "99_Inspiration_Log/Inspiration.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_007/Draft_AI.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_008",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_007",
+    "00_System_Prompts/Manuals"
   ]
 }

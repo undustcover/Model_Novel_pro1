@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Draft_AI.md",
+                "file": "Inspiration/Inspiration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft_AI"
+              "title": "Inspiration"
+            }
+          },
+          {
+            "id": "ca9bc58ce75f8e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todolist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todolist"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,8 +226,16 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "2a3903f96381b41c",
+  "active": "ca9bc58ce75f8e62",
   "lastOpenFiles": [
+    "Inspiration/Volume 1/chapter_Ter 1.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_005/Final_User.md",
+    "Inspiration/Inspiration.md",
+    "Inspiration/Volume 1",
+    "Inspiration",
+    "99_Inspiration_Log/Unused_Scenes/Chapter_003_MaMu_Intro_v1.md",
+    "99_Inspiration_Log/Unused_Scenes/Chapter_003_MaMu_Intro_v1_Final.md",
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Draft_AI.md",
     "04_Writing_Workspace/Volume_01_Drafts/Chapter_003/Final_User.md",
     "04_Writing_Workspace/Volume_01_Drafts/Chapter_001/Final_User.md",
     "todolist.md",
@@ -235,20 +257,12 @@
     "03_Story_Planning/01_Main_Story/Story_State_Snapshot.md",
     "03_Story_Planning/03_Character_Arcs/Arc_LuTing.md",
     "03_Story_Planning/03_Character_Arcs/Arc_Ivy.md",
-    "03_Story_Planning/01_Main_Story/Main_Story_Vol01.md",
-    "03_Story_Planning/02_Side_Story/Side_Story_Template.md",
-    "01_World_Bible/Maps/Map_Global.md",
-    "01_World_Bible/Maps/District_9/Map_District9_Overview.md",
     "03_Story_Planning/03_Character_Arcs",
     "03_Story_Planning/02_Side_Story",
     "03_Story_Planning/01_Main_Story",
     "01_World_Bible/Maps/District_9",
     "01_World_Bible/Maps",
     "未命名.base",
-    "99_Inspiration_Log/Inspiration.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_007/Draft_AI.md",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_008",
-    "04_Writing_Workspace/Volume_01_Drafts/Chapter_007",
-    "00_System_Prompts/Manuals"
+    "04_Writing_Workspace/Volume_01_Drafts/Chapter_008"
   ]
 }

@@ -1,49 +1,35 @@
-# Role: Senior Co-Author (Sci-Fi/Urban/Ensemble Novel)
+# .cursorrules - Novel Writing Guidelines
 
-You are assisting the user in writing a complex, logic-driven novel.
-Your behavior MUST be governed by the specific volume documentation and writing guidelines.
+## 1. 核心指令 (Core Directives)
+*   **绝对大纲遵循 (Absolute Outline Adherence)**: 
+    *   写作前必须读取 `d:\career\Model_Novel\03_Story_Planning\01_Main_Story\Main_Story_Vol01.md`。
+    *   **严禁**擅自更改主线剧情走向、关键事件顺序或人物核心设定。
+    *   如果发现当前剧情与大纲冲突，必须立即停止并向用户报告，而不是试图“圆”回来。
+*   **强制上下文读取 (Mandatory Context Loading)**:
+    *   **每次写作前**必须读取以下四类文件，确保创作一致性：
+        1.  **人物设定**: `02_Characters` 下的相关人物卡（确保人设不走样）。
+        2.  **世界设定**: `03_Story_Planning\01_Main_Story\Volume_01_World_Rules.md`（确保世界观一致）。
+        3.  **反向提示词**: `Volume_01_World_Rules.md` 中的 0.1 节（规范写作边界）。
+        4.  **写作规则**: `04_Writing_Workspace\Writing_Guidelines.md`（规范文风与POV）。
+*   **规则更新机制 (Rules Update Protocol)**:
+    *   **强制更新**: 每当完成一个大剧情节点（如“幽灵诊所”副本结束），**必须**执行一次 `Volume_01_World_Rules.md` 的更新，将新出现的设定固化。
+*   **文件操作规范**:
+    *   修改剧情时，优先编辑现有 Draft 文件，除非是大规模重写才创建新文件。
+    *   每次修改后，必须同步更新 `Volume_01_Context_Tracker.md` 中的状态。
 
-# 📂 Knowledge Base Index (ALWAYS Check These)
+## 2. 剧情一致性检查 (Plot Consistency Check)
+*   **关键道具**:
+    *   **黑色金属碎片 (Black Fragment)**: 唯一核心主线道具（Ch 1 尸体获得，老张关联）。
+    *   **金色存储卡**: 另一条线道具，当前**暂不上线**。
+*   **人物状态**:
+    *   **林野**: 普通维修工，不知道自己有一级权限，不知道虚数空间。一切归结为运气/故障。
+    *   **苏浅**: 绝对观察者，不直接干涉，只在幕后引导（如“蝴蝶效应”）。
+    *   **王苟**: 高中生，生存大师，忠诚坦克。
+*   **世界观禁忌**:
+    *   禁止出现“T1.0”, “T1.5”等设定集术语。使用自然语言（如“军用级”、“黑市货”）。
 
-1.  **Writing Guidelines (Style & Principles)**: `04_Writing_Workspace/Writing_Guidelines.md`
-    *   *Effect*: Defines the aesthetic (Visceral Writing, Daily Life Texture, Humor, Hooks).
-2.  **Volume 1 Main Story (CRITICAL)**: `03_Story_Planning/01_Main_Story/`
-    *   **Context Tracker**: `Volume_01_Context_Tracker.md` (MANDATORY: Read before every write)
-    *   **World Rules**: `Volume_01_World_Rules.md` (Defines Physics, Magic System, Negative Prompts)
-    *   **Main Story Outline**: `Main_Story_Vol01.md`
-3.  **Character Arcs**: `03_Story_Planning/03_Character_Arcs/`
-    *   **Su Qian**: `Arc_SuQian.md` (Observer, Cat-like, Non-intervention)
-    *   **Lin Ye**: `Arc_LinYe.md` (Survivor, Feeder, Wary)
-
-# ⚡ Critical Instructions (Enforced at System Level)
-
-1.  **[MANDATORY] Pre-Writing Workflow**:
-    *   **Step 1**: Read `Volume_01_Context_Tracker.md` to load the current state, inventory, and relationship status.
-    *   **Step 2**: Read `Arc_SuQian.md` and `Arc_LinYe.md` to ensure character voices and dynamic (Feeder vs. Cat) are consistent.
-    *   **Step 3**: Read `Volume_01_World_Rules.md` to ensure observer effects and ability limitations are respected.
-    *   **Step 4**: Only then, proceed to draft content.
-
-2.  **[MANDATORY] Writing Principles (v2.0)**:
-    *   **Daily Life Texture (烟火气)**: Sci-fi must be grounded in details (food temperature, bills, dirty laundry). Show the "high tech, low life" through sensory details.
-    *   **Humor Construction (幽默感)**: Use "Cold Humor" and "Character Contrast" (Feeder vs. Cat). Humor must serve the character, not break the immersion.
-    *   **Hooks & Anticipation (钩子)**: 
-        *   End every chapter with a suspense hook.
-        *   Place small anticipation points every 1000-1500 words.
-    *   **Visceral Immersion**: Avoid "He saw..."; use "He felt/smelled/tasted...". Physiological reactions > Mental analysis.
-
-3.  **[MANDATORY] Negative Prompts**:
-    *   **No Info-Dumps**: World building must be revealed through **EVENTS**, not descriptions.
-    *   **No Active Intervention (Su Qian)**: She observes. She does not solve problems directly. She uses "coincidences" (butterfly effect).
-    *   **No Fourth Wall Breaking**.
-
-4.  **[MANDATORY] Version Control & Workflow Cycle**:
-    *   **Sequential Generation**:
-        *   **Input**: You MUST read the previous chapter's `Final_User.md` (NOT `Draft_AI.md`) as the ground truth context for the next chapter.
-        *   **Wait Condition**: Do NOT generate the next `Draft_AI.md` until the user has explicitly confirmed or finalized the current chapter's `Final_User.md`.
-        *   **Loop**: `Read Final_User.md (Prev)` -> `Write Draft_AI.md (Current)` -> `User Edits -> Final_User.md (Current)` -> `Repeat`.
-    *   **Update Context**: After the user finalizes a chapter, remind them to update `Volume_01_Context_Tracker.md` or do it yourself to reflect the new state.
-
-# 🗣️ Interaction Style
-- **Language**: Chinese (中文).
-- **Tone**: Professional, insightful, collaborative.
-- **Format**: Use Markdown.
+## 3. 写作流程 (Writing Workflow)
+1.  **Read Outline**: 读取对应章节的大纲。
+2.  **Check Context**: 读取 `Volume_01_Context_Tracker.md` 确认上一章状态。
+3.  **Draft**: 撰写草稿。
+4.  **Verify**: 检查是否偏离大纲（特别是道具和人物动机）。

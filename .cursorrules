@@ -1,6 +1,10 @@
 # .cursorrules - Novel Writing Guidelines
 
 ## 1. 核心指令 (Core Directives)
+*   **模块化工作流 (Modular Workflow)**:
+    *   本系统采用 "4+1" 架构（人物、世界、逻辑、战斗 + 创作流）。
+    *   **必须**遵循 `d:\career\Model_Novel\00_System_Docs\Workflow_Modules\System_Workflow_Definitions.md` 定义的流程。
+    *   在执行写作任务前，**必须**显式地进行“静默推演” (Silent Simulation) 和“逻辑质检” (Logic Check)。
 *   **绝对大纲遵循 (Absolute Outline Adherence)**: 
     *   写作前必须读取 `d:\career\Model_Novel\03_Story_Planning\01_Main_Story\Main_Story_Vol01.md`。
     *   **严禁**擅自更改主线剧情走向、关键事件顺序或人物核心设定。
@@ -11,6 +15,7 @@
         2.  **世界设定**: `03_Story_Planning\01_Main_Story\Volume_01_World_Rules.md`（确保世界观一致）。
         3.  **反向提示词**: `Volume_01_World_Rules.md` 中的 0.1 节（规范写作边界）。
         4.  **写作规则**: `04_Writing_Workspace\Writing_Guidelines.md`（规范文风与POV）。
+        5.  **工作流定义**: `00_System_Docs\Workflow_Modules\System_Workflow_Definitions.md`（确保流程正确）。
 *   **规则更新机制 (Rules Update Protocol)**:
     *   **强制更新**: 每当完成一个大剧情节点（如“幽灵诊所”副本结束），**必须**执行一次 `Volume_01_World_Rules.md` 的更新，将新出现的设定固化。
 *   **文件操作规范**:
@@ -18,6 +23,8 @@
     *   每次修改后，必须同步更新 `Volume_01_Context_Tracker.md` 中的状态。
 
 ## 2. 剧情一致性检查 (Plot Consistency Check)
+*   **逻辑质检流 (Logic Flow)**:
+    *   每次生成正文前，必须先生成 `Logic_Report.md`，检查是否存在“死人复活”、“道具瞬移”、“性格OOC”等硬伤。
 *   **关键道具**:
     *   **黑色金属碎片 (Black Fragment)**: 唯一核心主线道具（Ch 1 尸体获得，老张关联）。
     *   **金色存储卡**: 另一条线道具，当前**暂不上线**。
@@ -29,7 +36,10 @@
     *   禁止出现“T1.0”, “T1.5”等设定集术语。使用自然语言（如“军用级”、“黑市货”）。
 
 ## 3. 写作流程 (Writing Workflow)
-1.  **Read Outline**: 读取对应章节的大纲。
-2.  **Check Context**: 读取 `Volume_01_Context_Tracker.md` 确认上一章状态。
-3.  **Draft**: 撰写草稿。
-4.  **Verify**: 检查是否偏离大纲（特别是道具和人物动机）。
+1.  **Simulate**: 跑人物流（推演 NPC 状态）和世界流（推演大事件）。
+2.  **Strategize**: 如有冲突，跑战斗/战略流。
+3.  **Outline**: 生成/确认分章细纲。
+4.  **Validate**: 跑逻辑流，检查一致性。
+5.  **Trial**: 试写本章高潮片段 (High-Stake Scene)。
+6.  **Draft**: 用户批准后，撰写全篇正文。
+7.  **Sync**: 更新 Context Tracker 和 Character Cards。
